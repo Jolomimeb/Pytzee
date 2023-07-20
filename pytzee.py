@@ -1,14 +1,3 @@
-"""
-File:     pytzee.py
-Author:   Oritsejolomisan Mebaghanje
-Date:     4/7/2022
-section:  11
-E-mail:   xz94254@umbc.edu
-Description: 
-      This program develops a pytzee game. It allows the user to enter various inputs and it acts based on the users choice. It makes use of lists, functions,booleans and several order things to ensure it works properly. 
-
-"""
-
 import random
 TOTAL_DICE = 5
 DICE_FACES = 6
